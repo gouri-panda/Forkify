@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596660768163</updated>
-      <workItem from="1596660770251" duration="6615000" />
+      <workItem from="1596660770251" duration="6764000" />
     </task>
     <task id="LOCAL-00001" summary="package loaded">
       <created>1596680422992</created>
@@ -126,10 +126,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="431" y="173" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1596681957785" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1596682697104">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1596683154734">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1596682220007" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1596683154734" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.826@0.23.1440.826" timestamp="1596682697104" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596681811268">
       <screen x="0" y="0" width="1440" height="900" />
