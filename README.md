@@ -11,7 +11,8 @@
 - Clone the forked repository using the code `git clone https://github.com/your-github-id/Forkify` 
 - Keeping in mind Node is installed in your environment run `$ npm install`
 - If any errors arise refer [here](https://docs.npmjs.com/cli/install)
-- If no errors arise, run `$ node build run`
+- If no errors arise, run `$ npm run build`
+- Then, run `$ npm start`
 - If there are no errors, the app should be visible on [http://localhost:8080](http://localhost:8080)
 
 ### First view of the application
