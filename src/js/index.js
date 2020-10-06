@@ -3,6 +3,12 @@
 // let data = await fetch('https://cors-anywhere.herokuapp.com/https://nyabazar.com/api/load_courses?key=e8a21a66ccd3b091df230f261b75b52f');
 console.log('index.js loaded');
 
+/**
+ * @function fetchData
+ * @description Fetch recipes from Forkify API
+ * @param {string} query - The query recipe
+ * @return {string} The recipe data.
+ */
 async function fetchData(query) {
     let data = await fetch(`https://forkify-api.herokuapp.com/api/search?&q=${query}`);
     console.log('data ' + data);
@@ -26,6 +32,7 @@ async function fetchData(query) {
 
 }
 
+// Calls fetchData passing lobster as query
 fetchData('lobster').then(() => {
     console.log('succesfully loaded')
 }).catch(reason => {
